@@ -1,2 +1,4 @@
 # python_100_Days
-Pyhton 100 days of code
+Hello!
+
+This is my repo for my training of python using Angela Yu's tutorial
